@@ -1,0 +1,392 @@
+[
+  {
+    "issue": {
+      "created_at": "2011-09-10T19:56:39Z",
+      "description": "",
+      "id": 1,
+      "title": "Alzheimer Society Manitoba",
+      "updated_at": "2011-09-10T19:56:39Z",
+      "url": "http://www.alzheimer.mb.ca/election2011"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-10T19:57:00Z",
+      "description": "",
+      "id": 2,
+      "title": "Arts Vote Winnipeg",
+      "updated_at": "2011-09-10T19:57:00Z",
+      "url": "http://www.artsvotewinnipeg.ca/"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-10T19:57:16Z",
+      "description": "",
+      "id": 3,
+      "title": "Bipole III Coalition",
+      "updated_at": "2011-09-10T19:57:16Z",
+      "url": "http://www.bipoleiiicoalition.ca/"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-10T19:57:34Z",
+      "description": "",
+      "id": 4,
+      "title": "Canadian Cancer Society",
+      "updated_at": "2011-09-10T19:57:34Z",
+      "url": "http://www.cancer.ca/manitobaelection"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-10T19:58:16Z",
+      "description": "",
+      "id": 5,
+      "title": "Canadian Community Economic Development Network",
+      "updated_at": "2011-09-18T07:21:24Z",
+      "url": "http://www.ccednet-rcdec.ca/en/node/10261"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-10T19:58:30Z",
+      "description": "",
+      "id": 6,
+      "title": "Canadian Federation of Independent Business",
+      "updated_at": "2011-09-10T19:58:30Z",
+      "url": "http://www.cfib-fcei.ca/english/focus/72-imagine_manitoba_without_small_business.html"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-10T19:58:44Z",
+      "description": "",
+      "id": 7,
+      "title": "Food Matters Manitoba",
+      "updated_at": "2011-09-10T19:58:44Z",
+      "url": "http://www.votefoodmanitoba.ca/"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-10T19:58:59Z",
+      "description": "",
+      "id": 8,
+      "title": "Heart of the Boreal",
+      "updated_at": "2011-09-10T19:58:59Z",
+      "url": "http://www.heartoftheboreal.ca/"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-10T19:59:13Z",
+      "description": "",
+      "id": 9,
+      "title": "Lets Pay Fair",
+      "updated_at": "2011-09-10T19:59:13Z",
+      "url": "http://letspayfair.com/index.htm"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-10T19:59:30Z",
+      "description": "",
+      "id": 10,
+      "title": "Make Poverty History",
+      "updated_at": "2011-09-10T19:59:30Z",
+      "url": "http://makepovertyhistorymb.com/"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-10T19:59:44Z",
+      "description": "",
+      "id": 11,
+      "title": "Manitoba Teachers’ Society",
+      "updated_at": "2011-09-10T19:59:44Z",
+      "url": "http://mbteach.org/extras/Election%202011/election2011main.html"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-10T19:59:59Z",
+      "description": "",
+      "id": 12,
+      "title": "Manitoba Wildlands",
+      "updated_at": "2011-09-10T19:59:59Z",
+      "url": "http://www.manitobawildlands.org/govern_elections.htm#ES2011"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-10T20:00:23Z",
+      "description": "",
+      "id": 13,
+      "title": "Real Property Association of Canada (REALPAC)",
+      "updated_at": "2011-09-12T02:43:03Z",
+      "url": "http://www.realpac.ca/manitoba-provincial-election"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-10T20:00:46Z",
+      "description": "",
+      "id": 14,
+      "title": "Winnipeg Trails Association",
+      "updated_at": "2011-09-10T20:00:46Z",
+      "url": "http://www.winnipegtrails.ca/2011/08/23/provincial-election-2011"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-10T20:01:00Z",
+      "description": "",
+      "id": 15,
+      "title": "Working Families Manitoba",
+      "updated_at": "2011-09-10T20:01:00Z",
+      "url": "http://www.workingfamiliesmanitoba.ca/"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-12T01:06:38Z",
+      "description": "",
+      "id": 16,
+      "title": "Manitoba Government and General Employees' Union (MGEU)",
+      "updated_at": "2011-09-12T01:06:38Z",
+      "url": "http://www.mgeu.mb.ca/issues"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-12T01:08:43Z",
+      "description": "",
+      "id": 17,
+      "title": "Manitoba Chamber of Commerce (MCC)",
+      "updated_at": "2011-09-12T01:08:43Z",
+      "url": "http://www.mbchamber.mb.ca/category/provincial-election-2011"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-12T01:31:34Z",
+      "description": "",
+      "id": 19,
+      "title": "Manitoba BOLD",
+      "updated_at": "2011-09-20T01:20:41Z",
+      "url": "http://www.manitobabold.com"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-12T01:34:54Z",
+      "description": "",
+      "id": 20,
+      "title": "Association of Manitoba Municipalities",
+      "updated_at": "2011-09-12T01:34:54Z",
+      "url": "http://www.amm.mb.ca/campaigncentre"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-12T02:05:37Z",
+      "description": "",
+      "id": 21,
+      "title": "Manitoba Beef Producers",
+      "updated_at": "2011-09-12T02:05:37Z",
+      "url": "http://www.mcpa.net/election-platform"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-12T02:09:03Z",
+      "description": "",
+      "id": 22,
+      "title": "Canadian Restaurant and Foodservices Association",
+      "updated_at": "2011-09-18T07:10:47Z",
+      "url": "http://www.crfa.ca/resources/elections/manitoba"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-12T02:26:35Z",
+      "description": "",
+      "id": 23,
+      "title": "Recreation Connections Manitoba",
+      "updated_at": "2011-09-12T02:26:35Z",
+      "url": "http://www.recconnections.com/main.asp?cat_ID=16"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-12T02:35:13Z",
+      "description": "",
+      "id": 24,
+      "title": "Heart & Stroke Foundation of Manitoba",
+      "updated_at": "2011-09-12T02:35:13Z",
+      "url": "http://www.heartandstroke.mb.ca/site/c.lgLSIVOyGpF/b.7717249/k.C75E/2011_Provincial_Election__Ask_Your_Candidate.htm"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-12T02:39:26Z",
+      "description": "",
+      "id": 25,
+      "title": "Manitoba Society  of Pharmacists",
+      "updated_at": "2011-09-12T02:39:26Z",
+      "url": "http://www.msp.mb.ca"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-12T02:41:21Z",
+      "description": "",
+      "id": 26,
+      "title": "The Arthritis Society",
+      "updated_at": "2011-09-12T02:41:21Z",
+      "url": "http://www.arthritis.ca/local%20programs/manitoba/advocacy/default.asp?s=1"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-13T07:06:57Z",
+      "description": "",
+      "id": 27,
+      "title": "Canadian Taxpayers Federation",
+      "updated_at": "2011-09-13T07:06:57Z",
+      "url": "http://taxpayer.com/campaigns-and-issues/mb"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-14T09:33:05Z",
+      "description": "",
+      "id": 28,
+      "title": "Voting for Walking & Cycling",
+      "updated_at": "2011-09-14T09:33:05Z",
+      "url": "http://greenactioncentre.ca/2011/voting-for-walking-cycling"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-18T07:19:46Z",
+      "description": "",
+      "id": 29,
+      "title": "Manitoba School Boards Association",
+      "updated_at": "2011-09-18T07:19:46Z",
+      "url": "http://www.mbschoolboards.ca/GenElection2011.html"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-18T07:27:50Z",
+      "description": "",
+      "id": 30,
+      "title": "Canadian Diabetes Association",
+      "updated_at": "2011-09-18T07:27:50Z",
+      "url": "http://mb.election.diabetes.ca/en"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-19T22:50:33Z",
+      "description": "",
+      "id": 31,
+      "title": "Canadian Parks and Wilderness Society - Manitoba Chapter",
+      "updated_at": "2011-09-27T21:34:05Z",
+      "url": "http://cpawsmb.org/1619/keeping-bipole-3-away-from-east-side-of-lake-winnipeg-is-a-good-deal"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-20T01:27:25Z",
+      "description": "",
+      "id": 32,
+      "title": "Mennonite Central Committee Manitoba - Peace Program",
+      "updated_at": "2011-09-20T01:27:25Z",
+      "url": "http://manitoba.mcc.org/programs/peace"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-20T02:53:43Z",
+      "description": "",
+      "id": 33,
+      "title": "Paramedics of Manitoba",
+      "updated_at": "2011-09-20T02:53:43Z",
+      "url": "http://www.paramedicsofmanitoba.ca"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-22T06:26:27Z",
+      "description": "",
+      "id": 34,
+      "title": "Walk and Roll the Vote",
+      "updated_at": "2011-09-22T06:26:27Z",
+      "url": "http://q3network.com"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-25T11:31:29Z",
+      "description": "",
+      "id": 35,
+      "title": "Council of Canadians",
+      "updated_at": "2011-09-25T11:31:29Z",
+      "url": "http://www.canadianswinnipeg.org/manitobaelection2011.htm"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-27T02:39:52Z",
+      "description": "",
+      "id": 37,
+      "title": "Canadian Psychological Association",
+      "updated_at": "2011-09-27T02:39:52Z",
+      "url": "http://www.cpa.ca/Elections/2011MB"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-27T02:49:48Z",
+      "description": "",
+      "id": 38,
+      "title": "Manitoba Childcare Association",
+      "updated_at": "2011-09-27T02:49:48Z",
+      "url": "http://mccahouse.org/ProvincialElection2011.htm"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-27T02:54:42Z",
+      "description": "",
+      "id": 39,
+      "title": "Child Care Canada",
+      "updated_at": "2011-09-27T02:54:42Z",
+      "url": "http://childcarecanada.org/resources/issue-files/early-childhood-education-and-care-fall-2011-provincial-elections/manitoba"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-09-27T03:02:40Z",
+      "description": "",
+      "id": 40,
+      "title": "Canadian Association for Retired Persons (CARP)",
+      "updated_at": "2011-09-27T03:02:40Z",
+      "url": "http://www.carp.ca/category/advocacy/campaigns/elections-fall-2011"
+    }
+  },
+  {
+    "issue": {
+      "created_at": "2011-10-01T22:57:18Z",
+      "description": "",
+      "id": 41,
+      "title": "Canadian Federation of Students - Manitoba",
+      "updated_at": "2011-10-01T22:57:18Z",
+      "url": "http://www.cfsmb.ca/index.php?section_id=5"
+    }
+  }
+]

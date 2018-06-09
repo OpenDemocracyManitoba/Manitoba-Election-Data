@@ -1,0 +1,872 @@
+[
+  {
+    "constituency": {
+      "created_at": "2011-06-30T08:56:20Z",
+      "description": "",
+      "id": 5,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Assiniboia",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Assiniboia_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-25T11:14:41Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T08:58:03Z",
+      "description": "",
+      "id": 6,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Burrows",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Burrows_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-25T11:14:22Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T08:58:16Z",
+      "description": "",
+      "id": 7,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Charleswood",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Charlsewood_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-25T11:14:05Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T08:58:31Z",
+      "description": "",
+      "id": 8,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Concordia",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Concordia_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-25T11:13:42Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T08:58:44Z",
+      "description": "This constituency is located in the northeast portion of Winnipeg.  The population of the constituency in 2008 was 20,800.  The new boundary to the north has been retracted from Oakland Ave to Mossdale Ave and Dunbeath Ave. The eastern boundary has extended from Watt Street to Raleigh Street into what was formerly in Concordia and Rossmere. This area was previously represented by Bill Blaikie (New Democratic Party) in Elmwood since 2009; by Matt Wiebe (New Democratic Party) in Concordia since 2010; and by Erna Braun (New Democratic Party) in Rossmere since 2007.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Crystal Laderas</a>, Creative Communications Student, Red River College</small>\r\n",
+      "id": 9,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Elmwood",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Elmwood_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-10-01T22:49:42Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T08:58:57Z",
+      "description": "This constituency is located in the south central portion of Winnipeg.  The population of the constituency in 2008 was 20,400. It is a new constituency created with portions of the former Fort Garry and Lord Roberts constituencies. The northern boundary includes Taylor Ave from Waverley Street to Wilton Street, Carter Avenue from Wilton Street to the CNR rail line, and from the CNR rail line to the Red River along Mulvey Ave. The south boundary follows Bishop Grandin Blvd between Waverley Street and the CNR rail line, and follows Chevrier Blvd and Crescent Drive between the CNR rail line and South Drive. The west boundary is Waverley Street and the east boundary is the Red River. This area was previously represented by Kerri Irvin-Ross (New Democratic Party) in Fort Garry since 2003 and by Diane McGifford (New Democratic Party) in Lord Roberts since 1995.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Jordan Thompson</a>, Creative Communications Student, Red River College</small>\r\n",
+      "id": 10,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Fort Garry-Riverview",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/FortGarryRiverview_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-10-01T22:36:18Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T08:59:20Z",
+      "description": "This constituency is located in the south central portion of Winnipeg. The population of the constituency in 2008 was 20,800. It is a new constituency created from the former Fort Garry and St. Norbert constituencies. The west boundary is along the CNR rail line and Pembina Hwy to the south of Newdale Ave. The north boundary is Chevrier Blvd and Crescent Drive as far east as South Drive. The south boundary is the perimeter and the west boundary is the Red River. This area was previously represented by Marilyn Brick (New Democratic Party) in St. Norbert since 2003 and by Kerri Irvin-Ross (New Democratic Party) in Fort Garry since 2003.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Lindsey Enns</a>, Creative Communications Student, Red River College</small>\r\n",
+      "id": 11,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Fort Richmond",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/FortRichmond_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-29T12:50:41Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T08:59:34Z",
+      "description": "This constituency is located in the central part of Winnipeg.  The population of the constituency in 2008 was 20,800.  The previous constituency of the same name now no longer includes anything north of the Assiniboine River. The southern boundary has been extended from Corydon to the CNR rail line and Carter Avenue into the former Lord Roberts constituency. The west side has extended from Stafford to Guelph Street north of Garwood Ave and to Wilton Street south of Garwood, which was formerly in River Heights. This area was previously represented by Jennifer Howard (New Democratic Party) in Fort Rouge 2007; by Diane McGifford (New Democratic Party) in Lord Roberts since 1995; and by Jon Gerrard (Liberal Party) in River Heights since 1999.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Lindsey Peterson</a>, Creative Communications Student, Red River College</small>\r\n",
+      "id": 12,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Fort Rouge",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/FortRouge_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-29T12:39:52Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T08:59:45Z",
+      "description": "This constituency is located in the southwest portion of Winnipeg.  The population of the constituency in 2008 was 19,200.  It is largely unchanged from the previous constituency of the same name; however, it no longer includes the area east of Waverly Street or south of Cadboro Road. This area was previously represented by Hugh McFadyen (Progressive Conservative Party) was first elected in 2005.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Daniella Ponticelli</a>, Creative Communications Student, Red River College</small>\r\n",
+      "id": 13,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Fort Whyte",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/FortWhyte_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-29T12:29:04Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:00:01Z",
+      "description": "This constituency is located in the northeast portion of Winnipeg.  The population of the constituency in 2008 was 21,500.  It is largely unchanged from the previous constituency of the same name except that the southern boundary has extended two blocks from Inkster Blvd to Atlantic Ave on the west side of the CPR rail line, and has retracted four blocks from Kingsbury Ave to Leila Ave between the CPR tracks and Main Street. This area was previously represented by Dave Chomiak (New Democratic Party) who was first elected in 1990.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Allison Marinelli</a>, Creative Communications Student, Red River College</small>\r\n",
+      "id": 14,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Kildonan",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Kildonan_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-29T10:08:49Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:00:10Z",
+      "description": "This constituency is located in the western tip of Winnipeg. The population of the constituency in 2008 was 20,400. The only difference since its previous boundaries is that the constituency now extends an additional two blocks to the west from Vimy Road to Parkdale Street on the north side of Portage Ave. This area was previously represented by Sharon Blady (New Democratic Party) who was first elected in 2007.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Allison Marinelli</a>, Creative Communications Student, Red River College</small>\r\n",
+      "id": 15,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Kirkfield Park",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/KirkfieldPark_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-29T10:03:18Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:11:46Z",
+      "description": "This constituency is located in the easternmost tip of Winnipeg.  The population of the constituency in 2008 was 20,500. It is mostly unchanged from the previous constituency of the same name. This area was previously represented by Daryl Reid (New Democratic Party), who was first elected in 1990.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Emily Wessel</a>, Creative Communications Student, Red River College</small>",
+      "id": 32,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Transcona",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Transcona_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-25T10:01:03Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:00:24Z",
+      "description": "This constituency is located in the northwest portion of Winnipeg.  The population of the constituency in 2008 was 20,900. It is a new constituency created with portions of the former Wellington, Minto, Point Douglas, and Fort Rouge constituencies. The constituency includes all neighbourhoods west of McPhillips Street, east of Main Street, south of the CPR tracks, and north of Notre Dame Ave. It also includes the core downtown area and the Centennial neighbourhood between Langside Street, Notre Dame Ave, and Ellice Ave. This area was previously represented by Flor Marcelino (New Democratic Party) in Wellington since 2007; by George Hickes (New Democratic Party) in Point Douglas since 1990; by Andrew Swan (New Democratic Party) in Minto since 2004; and by Jennifer Howard (New Democratic Party) in Fort Rouge since 2007.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Crystal Laderas</a>, Creative Communications Student, Red River College</small>\r\n",
+      "id": 16,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Logan",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Logan_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-29T09:58:27Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:00:38Z",
+      "description": "This constituency is located in central Winnipeg.  The population of the constituency in 2008 was 20,900. The new boundaries have extended north from Wellington Ave to Notre Dame Ave into the former Wellington boundaries. The east boundary has been retracted from Balmoral Street to Langside Street, and the west boundary has retracted from St. James Street to Valour Road. This area was previously represented by Andrew Swan (New Democratic Party) in Minto since 2004 and by Flor Marcelino (New Democratic Party) in Wellington since 2007.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Alyssa McDonald</a>, Creative Communications Student, Red River College</small>\r\n",
+      "id": 17,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Minto",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Minto_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-29T09:41:16Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:00:48Z",
+      "description": "This constituency is located in the north central part of Winnipeg. The population of the constituency in 2008 was 20, 300. The new boundaries no longer include the Exchange District area south of the CPR tracks and west of Main Street. The boundaries have been extended to the north to Church Ave into the former St. Johns boundaries, and to the east to Sinclair Street into the former Burrows boundaries. This area was previously represented by George Hickes (New Democratic Party) in Point Douglas since 1990; by Gord Mackintosh (New Democratic Party) in St. Johns since 1993; and by Doug Martindale (New Democratic Party) in Burrows since 1990.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Dani Finch</a>, Creative Communications Student, Red River College</small>\r\n",
+      "id": 18,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Point Douglas",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/PointDouglas_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-29T09:32:26Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:01:17Z",
+      "description": "This constituency is located in the eastern portion of Winnipeg.  The population of the constituency in 2008 was 20,500. The new boundaries have changed significantly. The portion that is north of Devonshire Drive and Nelson Ave to the east of Peguis Street, and to the north of the CPR line to the west of Peguis Street, is now part of Rossmere. The eastern boundary now follows Hoka Street only as far south as Rosseau Ave West instead of Pandora Ave West, and countinues south along Plessis Road. The south boundary no longer extends south of Fermor. The west boundary is retracted to Lagimodiere south of Regent Ave, and extends west to the Seine River to the south of Elizabeth Road, into the former Southdale constituency. This area was previously represented by Bidhu Jha (New Democratic Party) in Radisson since 2003 and by Erin Selby (New Democratic Party) in Southdale since 2007.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Terryn Shiells</a>, Creative Communications Student, Red River College</small>\r\n",
+      "id": 19,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Radisson",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Radisson_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-28T10:39:41Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:01:38Z",
+      "description": "This constituency is located in the southeast portion of Winnipeg.  The population of the constituency in 2008 was 20,400.  It is significantly changed from the previous constituency of the same name. The eastern boundary has been retracted to Dakota Street and Dunkirk Drive instead of the Seine River and St. Mary’s Road respectively. The northern boundary now includes the Kingston Row area west of Dunkirk Drive. The southern border has expanded from Novavista Drive southwards to Warde Avenue on the east side of Paddington Road, and to Burland Avenue to the west side of Paddington Road, both of which were formerly within the Seine River boundaries. This area was previously represented by Christine Melnick (New Democratic Party) in Riel since 2003 and by Theresa Oswald (New Democratic Party) in Seine River since 2003.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Krystalle Ramlakhan</a>, Creative Communications Student, Red River College</small>\r\n",
+      "id": 20,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Riel",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Riel_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-28T07:54:08Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:01:59Z",
+      "description": "This constituency is located in the northeast corner of Winnipeg. The population of the constituency in 2008 was 20,900. It is largely unchanged from the previous constituency of the same name. It no longer includes the portion south of Douglas Ave between Rothesay Street and Raleigh Street or the portion south of Chief Peguis Trail west of Henderson Hwy. This area was previously represented by Bonnie Mitchelson (Progressive Conservative Party) who was first elected in 1986.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Lindsey Enns</a>, Creative Communications Student, Red River College</small>\r\n",
+      "id": 21,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "River East",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/RiverEast_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-28T07:22:59Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:08:07Z",
+      "description": "River Heights is a south-central Winnipeg constituency. The population of the constituency in 2008 was 20,600. The new boundaries include most of the Grant Park neighbourhood in the south east, which was previously in Lord Roberts. The east side has contracted a couple blocks to the west. The west side has contracted a few blocks to the east south of Kingsway and has expanded a couple blocks to the west north of Kingsway into what was formerly in Tuxedo. The area was previously represented by Jon Gerrard (Liberal Party) in River Heights since 1999; by Diane McGifford (New Democratic Party) in Lord Roberts since 1995; and by Heather Stefanson (Progressive Conservative Party) in Tuxedo since 2000.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Anrea Zaslov</a>, Creative Communications Student, Red River College</small>",
+      "id": 22,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "River Heights",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/RiverHeights_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-28T07:17:50Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:11:56Z",
+      "description": "This constituency is located in the west side of Winnipeg. The population of the constituency in 2008 was 20,300. It is largely unchanged from the previous constituency of the same name. This area was previously represented by Heather Stefanson (Progressive Conservative party), who was first elected in 2000.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Anrea Zaslov</a>, Creative Communications Student, Red River College</small>",
+      "id": 33,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Tuxedo",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Tuxedo_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-25T09:58:49Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:08:23Z",
+      "description": "This constituency is located in the northeastern portion of Winnipeg.  The population of the constituency in 2008 was 20,600.  The new boundary no longer includes the portion north of Springfield Road between Rothesay Street and Raleigh Street. Its southern border has expanded several blocks south on the west side of Raleigh Street into the previous Elmwood boundaries, and has contracted several blocks on the east side of Raleigh Street. Its eastern border has been expanded to include all homes north of Devonshire Drive, south of Springfield road, and to the west of Bellavance Street and Plessis Road, previously located in Radisson. This area was previously represented by Erna Braun (New Democratic Party) in Rossmere since 2007; by Bill Blaikie (New Democratic Party) in Elmwood since 2008; and by Bidhu Jha (New Democratic Party) in Radisson since 2003.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Erica Johnson</a>, Creative Communications Student, Red River College</small>\r\n",
+      "id": 23,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Rossmere",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Rossmere_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-28T07:00:51Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:10:15Z",
+      "description": "This constituency is located in southern Winnipeg. The population of the constituency in 2008 was 19,200. Its border no longer includes the portion north of Warde Ave. and Burland Ave. west of Dakota Street, and is now extended north from Novavista Drive to Meadowood Drive, east of Dakota Street, which was previously in Riel. This area was previously represented by Theresa Oswald (New Democratic Party), who was first elected in 2003.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Garrick Kozier</a>, Creative Communications Student, Red River College</small>\r\n",
+      "id": 24,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Seine River",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/SeineRiver_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-26T12:23:09Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:10:25Z",
+      "description": "This constituency is located in the southeast corner of Winnipeg. The population of the constituency in 2008 was 19,200. Its boundaries are largely unchanged, except that it no longer includes the portion east of Laigmodiere Blvd and north of Bishop Grandin Blvd or the portion north of Fermor Ave., both of which are now in Radisson. This area was previously represented by Erin Selby (New Democratic Party), who was first elected in 2007.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Garrick Kozier</a>, Creative Communications Student, Red River College</small>\r\n",
+      "id": 25,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Southdale",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Southdale_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-26T12:14:25Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:10:37Z",
+      "description": "This constituency is located in the central portion of Winnipeg.  The population of the constituency in 2008 was 20,900.  It is largely unchanged from the previous constituency of the same name, except that it now extends several blocks further south to Harrowby Ave, which was previous in the St. Vital boundaries. This area was previously represented by Greg Selinger (New Democratic Party) in St. Boniface since 1999 and by Nancy Allan (New Democratic Party) in St. Vital since 1999.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Terryn Shiells</a>, Creative Communications Student, Red River College</small>",
+      "id": 26,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "St. Boniface",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/StBoniface_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-26T12:08:23Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:10:51Z",
+      "description": "This constituency is located in the western portion of Winnipeg. The population of the constituency in 2008 was 20,900. Its border has changed significantly with the loss of the northwest portion to the Assiniboia constituency, north of Ness and west of Air Force Way. The boundaries have also extended to the east from St. James Street to Valour Road, which was formerly in Minto. This area was previously represented by Bonnie Korzeniowski (New Democratic Party) in St. James since 1999 and by Andrew Swan (New Democratic Party) in Minto since 2004.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Allison Marinelli</a>, Creative Communications Student, Red River College</small>",
+      "id": 27,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "St. James",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/StJames_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-25T22:11:14Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:11:00Z",
+      "description": "This constituency is located in the north portion of Winnipeg. The population of the constituency in 2008 was 20,500. The new boundaries extend to the north by several blocks into the previous Kildonan boundaries, and retract several blocks from the south, which is now in Point Douglas. This area was previously represented by Gord Mackintosh (New Democratic Party) in St. Johns since 1993, and by Dave Chomiak (New Democratic Party) in Kildonan since 1990.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Dani Finch</a>, Creative Communications Student, Red River College</small>",
+      "id": 28,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "St. Johns",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/StJohns_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-25T11:04:08Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:11:12Z",
+      "description": "This constituency is located in the southernmost tip of Winnipeg. The population of the constituency in 2008 was 19,100. The new boundaries south of the perimeter are largely unchanged. North of the perimeter the new boundaries no longer include most of the area east of the CNR rail line along Pembina Hwy, but now include all neighbourhoods west of the CNR rail line, east of Waverley St., and south of the Bishop Grandin Blvd, which were previously in Fort Whyte. This area was previously represented by Marilyn Brick (New Democratic Party) in St. Norbert since 2003, and by Hugh McFadyen (Progressive Conservative Party) in Fort Whyte since 2005.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Emily Wessel</a>, Creative Communications Student, Red River College</small>",
+      "id": 29,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "St. Norbert",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/StNorbert_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-25T10:54:59Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:11:25Z",
+      "description": "This constituency is located in the southeast portion of Winnipeg. The population of the constituency in 2008 was 20,900. The new St. Vital boundary now extends southward to Meadowood Drive instead of Bishop Grandin Boulevard. This area was formerly part of Riel. The west boundary now is Dunkirk Drive and Dakota Street to the south, and it no longer includes Kingston Row, which is now in Riel. This area was previously represented by Nancy Allan (New Democratic Party) in St. Vital since 1999, and by Christine Melnick (New Democratic Party) in Riel since 2003.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Krystalle Ramlakhan</a>, Creative Communications Student, Red River College</small>",
+      "id": 30,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "St. Vital",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/StVital_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-25T10:39:30Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:11:37Z",
+      "description": "This constituency is located in the northwest portion of Winnipeg. The population of the constituency in 2008 was 20,400. The new boundaries now include the northern part of the former Inkster constituency and no longer include the southern portion of the previous Maples constituency, which is now part of Burrows. The area was previously represented by Mohinder Saran (New Democratic Party) in The Maples since 2007 and by Kevin Lamoureux (Liberal Party) in Inkster since 2003.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Ashley Wiebe</a>, Creative Communications Student, Red River College</small>",
+      "id": 31,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "The Maples",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/TheMaples_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-25T10:15:41Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:12:04Z",
+      "description": "This constituency is located in the northwest portion of Winnipeg. The population of the constituency in 2008 was 20,900. This is a new constituency created out of parts of Inkster, Wellington and St. James. This area was previously represented by Kevin Lamoureux (Liberal Party) in Inkster since 2003; by Flor Marcelino (New Democratic Party) in Wellington since 2007; and by Bonnie Korzeniowski (New Democratic Party) in St. James since 1999.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Crystal Laderas</a>, Creative Communications Student, Red River College</small>",
+      "id": 34,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Tyndall Park",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/TyndallPark_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-25T09:53:37Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:12:21Z",
+      "description": "This constituency is located in the central portion of Winnipeg. The population of the constituency in 2008 was 20,900. It is largely unchanged from the previous constituency of the same name. This area was previously represented by Rob Altemeyer of the New Democratic Party first elected in 2003.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Laura Kunzelman</a>, Creative Communications Student, Red River College</small>",
+      "id": 35,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Wolseley",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Wolseley_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2011-09-25T09:28:12Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:12:39Z",
+      "description": "This constituency is located in the southeast corner of Manitoba. The population of the constituency in 2008 was 19,500. It is a new constituency that includes the western portion of the previous La Verendrye boundaries and a small eastern portion of the previous Morris boundaries just west of the Red River. The area was previously represented by Ron Lemieux (New Democratic Party) in La Verendrye, and by Mavis Taillieu (Progressive Conservative Party) in Morris since 2003.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Ashley Wiebe</a>, Creative Communications Student, Red River College</small>",
+      "id": 36,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Dawson Trail",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Dawson_Trail_pdf.pdf",
+      "region": "Southern Manitoba",
+      "updated_at": "2011-09-24T15:14:43Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:13:18Z",
+      "description": "This constituency is located in southern Manitoba. The population of the constituency in 2008 was 20,400. The constituency now includes the southeastern portion of the previous Morris boundaries, the eastern portion of the former Pembina boundaries, and excludes the previous Emerson boundaries east of Roseau River to Ontario. This area was previously represented by Cliff Graydon (Progressive Conservative Party) in Emerson since 2007; by Peter George Dyck (Progressive Conservative Party) in Pembina since 1995; and by Mavis Taillieu (Progressive Conservative Party) in Morris since 2003.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Emily Wessel</a>, Creative Communications Student, Red River College</small>",
+      "id": 38,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Emerson",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Emerson_pdf.pdf",
+      "region": "Southern Manitoba",
+      "updated_at": "2011-09-24T14:50:07Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:13:26Z",
+      "description": "This constituency is located on western shore of Lake Winnipeg and goes south of the lake almost as far as Winnipeg. The population of the constituency in 2008 was 20,200. The constituency has been expanded to include the Hecla / Grindstone Provincial Park, formerly part of the Interlake constituency. It no longer includes the portion just north of Winnipeg, which is now part of St. Paul. This area was previously represented by Peter Bjornson (New Democratic Party) in Gimli since 2003, and by Tom Nevakshonoff (New Democratic Party) in the Interlake since 1999.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Laura Kunzelman</a>, Creative Communications Student, Red River College</small>",
+      "id": 39,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Gimli",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Gimli_pdf.pdf",
+      "region": "Southern Manitoba",
+      "updated_at": "2011-09-24T14:37:24Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:13:36Z",
+      "description": "This constituency is located centrally in Manitoba between Lake Winnipeg and Lake Manitoba. The population of the constituency in 2008 was 20,700. The new constituency no longer includes Lundar, St. Laurent, and Oak Point, but does include Inwood, Narcisse, and Chatfield, which were previously in the constituency of Lakeside. This area was previously represented by Tom Nevakshonoff (New Democratic Party) in the Interlake since 1999, and by Ralph Eichler (Progressive Conservative Party) in Lakeside since 2003.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Sara Harrison</a>, Creative Communications Student, Red River College</small>",
+      "id": 40,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Interlake",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Interlake_pdf.pdf",
+      "region": "Southern Manitoba",
+      "updated_at": "2011-09-24T14:28:10Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:13:44Z",
+      "description": "This constituency is located in the southwest portion of Manitoba. The population of the constituency in 2008 was 20,600. La Verendyre has expanded significantly, taking up portions of the Emerson, Lac du Bonnet, Springfield, and Steinbach, while it lost a significant portion to the new Dawson Trail constituency. The area was previously represented by Ron Lemieux (New Democratic Party) in La Verendrye since 1999; by Cliff Graydon (Progressive Conservative Party) in Emerson since 2007; by Gerald Hawranik (Progressive Conservative Party) in Lac du Bonnet since 2002; by Ron Schuler (Progressive Conservative Party) in Springfield since 1999; and by Kelvin Goertzen (Progressive Conservative Party) in Steinbach since 2003.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Jordan Thompson</a>, Creative Communications Student, Red River College</small>",
+      "id": 41,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "La Verendrye",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/La_Verendrye_pdf.pdf",
+      "region": "Southern Manitoba",
+      "updated_at": "2011-09-24T14:21:30Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:13:58Z",
+      "description": "This constituency is located in eastern Manitoba.  The population of the constituency in 2008 was 19,600.  The new constituency boundaries no longer include a large portion to the south, which is now a part of La Verendrye. This area was previously represented by Gerald Hawranik (Progressive Conservative Party) who was first elected in 2002.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Daniella Ponticelli</a>, Creative Communications Student, Red River College</small>",
+      "id": 43,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Lac du Bonnet",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Lac_Du_Bonnet_pdf.pdf",
+      "region": "Southern Manitoba",
+      "updated_at": "2011-09-24T14:10:13Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:14:08Z",
+      "description": "This constituency is located in central Manitoba between Lake Manitoba and Lake Winnipeg. The population of the constituency in 2008 was 20,000. The new Lakeside constituency has a portion of the previous Interlake constituency to the east of North Shoal Lake, but no longer includes the portion to the west of North Shoal Lake. This area was previously represented by Ralph Eichler (Progressive Conservative Party) in Lakeside since 2003, and by Tom Nevakshonoff (New Democratic Party) in the Interlake since 1999.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Erica Johnson</a>, Creative Communications Student, Red River College</small>",
+      "id": 44,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Lakeside",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Lakeside_pdf.pdf",
+      "region": "Southern Manitoba",
+      "updated_at": "2011-09-24T14:02:00Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:14:13Z",
+      "description": "This constituency is located in the southern portion of Manitoba. The population of the constituency in 2008 was 20,500. It is a new constituency consisting of the former Carman, Pembina, and Turtle Mountain constituencies. The area was previously represented by Blaine Pedersen (Progressive Conservative Party) in Carman since 2007; by Peter George Dyck (Progressive Conservative Party) in Pembina since 1995; and by Cliff Cullen (Progressive Conservative Party) in Turtle Mountain since 2004.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Lindsey Enns</a>, Creative Communications Student, Red River College</small>",
+      "id": 45,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Midland",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Midland_pdf.pdf",
+      "region": "Southern Manitoba",
+      "updated_at": "2011-09-24T13:46:43Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:14:20Z",
+      "description": "This constituency is located in the southern region of Manitoba.  The population of the constituency in 2008 was 19,500. It is a new constituency that includes the northeast corner of the former Pembina constituency. This area was previously represented by Peter George Dyck (Progressive Conservative Party) who was first elected in 1995.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Emily Wessel</a>, Creative Communications Student, Red River College</small>",
+      "id": 46,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Morden-Winkler",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Morden_Winkler_pdf.pdf",
+      "region": "Southern Manitoba",
+      "updated_at": "2011-09-24T13:38:23Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:14:30Z",
+      "description": "Morris is a rural constituency in the south central portion of Manitoba. The population of the constituency in 2008 was 20,300. The new boundaries do not include a large portion to the southeast, which is now part of Emerson, but do include small portions from the previous constituencies of La Verendrye and Steinbach. This area was previously represented by Mavis Taillieu (Progressive Conservative Party) in Morris since 2003; by Ron Lemieux (New Democratic Party) in La Verendrye since 1999; and by Kelvin Goertzen (Progressive Conservative Party) in Steinbach since 2003.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Anrea Zaslov</a>, Creative Communications Student, Red River College</small>",
+      "id": 47,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Morris",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Morris_pdf.pdf",
+      "region": "Southern Manitoba",
+      "updated_at": "2011-09-24T13:30:57Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:14:42Z",
+      "description": "This constituency is located in the south central portion of Manitoba. The population of the constituency in 2008 was 20,500. It is largely unchanged from the previous constituency of the same name. This area was previously represented by David Faurschou (Progressive Conservative Party) who was first elected in 1997.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Laura Kunzelman</a>, Creative Communications Student, Red River College</small>",
+      "id": 48,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Portage la Prairie",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Portage_la_Prairie_pdf.pdf",
+      "region": "Southern Manitoba",
+      "updated_at": "2011-09-24T13:13:12Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:14:50Z",
+      "description": "This constituency is located in the south central portion of Manitoba.  The population of the constituency in 2008 was 19,900.  It is largely unchanged from the previous constituency except that it no longer includes the portion between Grand Beach and Victoria Beach.  This area has been represented by Greg Dewar (New Democratic Party) who was first elected in 1990.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Erica Johnson</a>, Creative Communications Student, Red River College</small>",
+      "id": 49,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Selkirk",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Selkirk_pdf.pdf",
+      "region": "Southern Manitoba",
+      "updated_at": "2011-09-24T13:11:36Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:14:59Z",
+      "description": "This constituency is located to the northeast of Winnipeg. The population of the constituency in 2008 was 20,000. The constituency was formed from the western portion of the previous constituency of Springfield and the southern tips of Gimli and Selkirk. This area was previously represented by Ron Schuler (Progressive Conservative Party) in Springfield since 1999; by Peter Bjornson (New Democratic Party) in Gimli since 2003; and by Greg Dewar (New Democratic Party) in Selkirk since 1990.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Dani Finch</a>, Creative Communications Student, Red River College</small>",
+      "id": 50,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "St. Paul",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/St_Paul_pdf.pdf",
+      "region": "Southern Manitoba",
+      "updated_at": "2011-09-24T13:00:41Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:15:09Z",
+      "description": "This constituency is located in the southern portion of Manitoba.  The population of the constituency in 2008 was 19,400. The new constituency boundaries no longer include a large portion to the south, which is now a part of La Verendrye, and a portion in the  northwest, which is now part of Morris.   This area was previously represented by Kelvin Goertzen (Progressive Conservative Party) who was first elected in 2003.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Lindsey Enns</a>, Creative Communications Student, Red River College</small>",
+      "id": 51,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Steinbach",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Steinbach_pdf.pdf",
+      "region": "Southern Manitoba",
+      "updated_at": "2011-09-29T05:42:07Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:15:32Z",
+      "description": "This constituency is located in the southern portion of Manitoba.  Its population in 2008 was 20,800. It is a new constituency covering most of the former Ste. Rose constituency and a portion of the Turtle Mountain constituency. Agassiz was previously represented by Stu Briese (Progressive Conservative Party) in Ste. Rose since 2007, and by Cliff Cullen (Progressive Conservative Party) in Turtle Mountain since 2004.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Terryn Shiells</a>, Creative Communications Student, Red River College</small>\r\n",
+      "id": 52,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Agassiz",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Agassiz_pdf.pdf",
+      "region": "Southern Manitoba",
+      "updated_at": "2011-09-24T12:43:00Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:15:52Z",
+      "description": "This constituency is located in the southwest tip of Manitoba.  The population of the constituency in 2008 was 21,100. It has increased in size from the previous constituency of the same name, taking portions of the previous constituencies of Russell to the north and Minnedosa to the east. This area was previously represented by Larry Maguire (Progressive Conservative) in Arthur-Virden since 1999; by Leanne Rowat (Progressive Conservative Party) in Minnedosa since 2003; and by Len Derkach (Progressive Conservative Party) in Russell since 1986.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Alyssa McDonald</a>, Creative Communications Student, Red River College</small>",
+      "id": 53,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Arthur-Virden",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Arthur_Virden_pdf.pdf",
+      "region": "Southern Manitoba",
+      "updated_at": "2011-09-24T12:42:43Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:16:00Z",
+      "description": "This constituency is located in the eastern half of Brandon.  The population of the constituency in 2008 was 20,700. It is largely unchanged from the previous constituency of the same name, with the addition of the block between Kirkcaldy Drive and Braecrest Drive.  This area was previously represented by Drew Caldwell (New Democratic Party) who was first elected in 1999.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Daniella Ponticelli</a>, Creative Communications Student, Red River College</small>",
+      "id": 54,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Brandon East",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/BrandonEast_pdf.pdf",
+      "region": "Brandon",
+      "updated_at": "2011-09-24T12:09:24Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:16:09Z",
+      "description": "This constituency is located in the western half of Brandon.  The population of the constituency in 2008 was 20,800.  The constituency lost a portion of its northeast corner to Brandon East, and gained a small portion in the southeast corner since the previous boundaries.  This area was previously represented by Rick Borotsik (Progressive Conservative Party) who was first elected in 2007.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Daniella Ponticelli</a>, Creative Communications Student, Red River College</small>",
+      "id": 55,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Brandon West",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/BrandonWest_pdf.pdf",
+      "region": "Brandon",
+      "updated_at": "2011-09-24T12:41:51Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:16:20Z",
+      "description": "This constituency is located in the western portion of Manitoba.  The population of the constituency in 2008 was 19,600. This constituency has similar boundaries as the previous constituency of Dauphin-Roblin except that it no longer has the portion north of Dauphin Lake.  This constituency was previously represented by Stan Struthers (New Democratic Party) who was first elected in 1995.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Lindsey Peterson</a>, Creative Communications Student, Red River College</small>",
+      "id": 56,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Dauphin",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Dauphin_pdf.pdf",
+      "region": "Southern Manitoba",
+      "updated_at": "2011-09-24T12:00:59Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:16:29Z",
+      "description": "This constituency is located in the southwest portion of Manitoba. The population of the constituency in 2008 was 21,200. It is a new constituency created with portions of the previous Minnedosa and Russell constituencies. This area was previously represented by Leanne Rowat (Progressive Conservative Party) in Minnedosa since 2003; and by Len Derkach (Progressive Conserative Party) in Russell since 1986.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Alyssa McDonald</a>, Creative Communications Student, Red River College</small>",
+      "id": 57,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Riding Mountain",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Riding_Mountain_pdf.pdf",
+      "region": "Southern Manitoba",
+      "updated_at": "2011-09-24T12:41:31Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:16:36Z",
+      "description": "This constituency is located in the southwest portion of Manitoba. The population of the region in 2008 was 20,400. Spruce Woods is a new constituency made up of Turtle Mountain and Minnedosa. This area was previously represented by Cliff Cullen (Progressive Conservative Party) in Turtle Mountain, elected since 2004; and Leanne Rowat (Progressive Conservative Party) in Minnedosa, elected since 2003.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Krystalle Ramlakhan</a>, Creative Communications Student, Red River College</small>",
+      "id": 58,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Spruce Woods",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Spruce_Woods_pdf.pdf",
+      "region": "Southern Manitoba",
+      "updated_at": "2011-09-24T12:41:10Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-06-30T09:16:44Z",
+      "description": "This constituency is located in the northern portion of Manitoba. The population of the constituency in 2008 was 18,900. It is largely unchanged from the previous constituency, although the western-most portion of the previous constituency is now a part of Flin Flon. This area was previously represented by Steve Ashton (New Democratic Party) who was first elected in 1981.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Dani Finch</a>, Creative Communications Student, Red River College</small>",
+      "id": 59,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Thompson",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Thompson_pdf.pdf",
+      "region": "Northern Manitoba",
+      "updated_at": "2011-09-24T12:06:27Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-07-05T02:59:50Z",
+      "description": "This constituency is located in the western portion of Manitoba.  The population of the constituency in 2008 was 19,400. It is largely unchanged from the previous constituency of the same name. This area was previously represented by Rosann Wowchuk (New Democratic Party) who was first elected in 1990.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Jordan Thompson</a>, Creative Communications Student, Red River College</small>",
+      "id": 61,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Swan River",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Swan_River_pdf.pdf",
+      "region": "Southern Manitoba",
+      "updated_at": "2011-09-24T12:06:45Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-07-05T03:16:47Z",
+      "description": "This constituency is located in the northwest portion of Manitoba.  The population of the constituency in 2008 was 15,300.  It is largely unchanged from the previous constituency of the same name.  This area was previously represented by Gerard Jennissen (New Democratic Party) who was first elected in 1995.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Lindsey Peterson</a>, Creative Communications Student, Red River College</small>",
+      "id": 62,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Flin Flon",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Flin_Flon_pdf.pdf",
+      "region": "Northern Manitoba",
+      "updated_at": "2011-09-24T12:07:03Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-07-05T03:25:11Z",
+      "description": "This constituency is the largest in Manitoba, sprawling over the northeastern and east regions of Manitoba.  The approximate population of the constituency in 2008 was 15,600.  It is a new constituency that has had little change from its predecessor, Rupertsland.  This area was previously represented by Eric Robinson (New Democratic Party) who has been elected since 1993.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Sara Harrison</a>, Creative Communications Student, Red River College</small>",
+      "id": 63,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Kewatinook",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/Kewatinook_pdf.pdf",
+      "region": "Northern Manitoba",
+      "updated_at": "2011-09-24T15:21:28Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2011-07-05T03:48:55Z",
+      "description": "This constituency is located in the northern portion of Manitoba.  The population of the constituency in 2008 was 20,500. It is largely unchanged from the previous constituency of the same name.  This area was previously represented by Frank Whitehead (New Democratic Party) who was first elected in 2009.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Sara Harrison</a>, Creative Communications Student, Red River College</small>",
+      "id": 64,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "The Pas",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/The_Pas_pdf.pdf",
+      "region": "Northern Manitoba",
+      "updated_at": "2011-09-24T12:40:33Z"
+    }
+  },
+  {
+    "constituency": {
+      "created_at": "2012-08-19T09:33:01Z",
+      "description": "This constituency is located in the southwest portion of Winnipeg.  The population of the constituency in 2008 was 19,200. This area was previously represented by Hugh McFadyen (Progressive Conservative Party) until July 30th, 2012. The seat remained vacant until the by-election was called on August 3rd, 2012.\r\n\r\n<span class=\"small\"><a href=\"http://manitobaelection.ca/pages/12/constituency-descriptions\">Daniella Ponticelli</a>, Creative Communications Student, Red River College</small>\r\n",
+      "id": 65,
+      "image_content_type": null,
+      "image_file_name": null,
+      "image_file_size": null,
+      "image_updated_at": null,
+      "name": "Fort Whyte 2012 By-Election",
+      "pdf_map_url": "http://www.elections.mb.ca/galleries/download/Maps/FortWhyte_pdf.pdf",
+      "region": "Winnipeg",
+      "updated_at": "2012-08-28T21:10:22Z"
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "map": {
+      "created_at": "2011-08-16T08:36:43Z",
+      "description": "",
+      "id": 1,
+      "image_content_type": "image/png",
+      "image_file_name": "Winnipeg-named.png",
+      "image_file_size": 156841,
+      "image_updated_at": "2011-08-16T08:36:39Z",
+      "name": "Winnipeg",
+      "updated_at": "2011-08-16T08:36:43Z"
+    }
+  },
+  {
+    "map": {
+      "created_at": "2011-08-16T08:37:06Z",
+      "description": "",
+      "id": 2,
+      "image_content_type": "image/png",
+      "image_file_name": "Brandon-named.png",
+      "image_file_size": 25640,
+      "image_updated_at": "2011-08-16T08:37:03Z",
+      "name": "Brandon",
+      "updated_at": "2011-08-16T08:37:06Z"
+    }
+  },
+  {
+    "map": {
+      "created_at": "2011-08-16T08:37:33Z",
+      "description": "",
+      "id": 3,
+      "image_content_type": "image/png",
+      "image_file_name": "South-named.png",
+      "image_file_size": 105892,
+      "image_updated_at": "2011-08-16T08:37:30Z",
+      "name": "Southern Manitoba",
+      "updated_at": "2011-08-16T08:37:33Z"
+    }
+  },
+  {
+    "map": {
+      "created_at": "2011-08-16T08:38:01Z",
+      "description": "",
+      "id": 4,
+      "image_content_type": "image/png",
+      "image_file_name": "North-named.png",
+      "image_file_size": 65977,
+      "image_updated_at": "2011-09-14T08:36:27Z",
+      "name": "Northern Manitoba",
+      "updated_at": "2011-09-14T08:36:31Z"
+    }
+  }
+]
